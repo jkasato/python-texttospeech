@@ -50,7 +50,6 @@ def ssml_to_audio(ssml_text, outfile):
     )
 
     # Selects the type of audio file to return
-    # Selects the type of audio file to return
     audio_config = texttospeech.AudioConfig(
         audio_encoding=texttospeech.AudioEncoding.MP3
     )
@@ -110,9 +109,10 @@ def text_to_ssml(inputfile):
 # [START tts_ssml_address_test]
 def main():
     # test example address file
-    plaintext = "resources/example.txt"
+    plaintext = "resources/Capstone.txt"
     ssml_text = text_to_ssml(plaintext)
-    ssml_to_audio(ssml_text, "resources/example.mp3")
+    # ssml_to_audio(ssml_text, "resources/CapstonePt1.mp3")
+    ssml_to_audio(ssml_text, "C:/Users/j/Downloads/Capstone.mp3")
     # [END tts_ssml_address_test]
 
 

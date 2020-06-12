@@ -1,0 +1,4 @@
+<speak>
+<prosody rate="slow" pitch="-2st">This is an important announcement</prosody>
+<prosody rate="fast" pitch="x-low" volume="x-loud">This is an important announcement</prosody>
+</speak>

@@ -58,7 +58,7 @@ def synthesize_text(text):
 # [END tts_synthesize_text]
 
 
-# [START tts_synthesize_ssml]
+# [START tts_]
 def synthesize_ssml(ssml):
     """Synthesizes speech from the input string of ssml.
 

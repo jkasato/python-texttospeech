@@ -58,8 +58,8 @@ def synthesize_text_file(text_file):
 # [END tts_synthesize_text_file]
 
 
-# [START tts_synthesize_ssml_file]
-def synthesize_ssml_file(ssml_file):
+# [START tts__file]
+def _file(ssml_file):
     """Synthesizes speech from the input file of ssml.
 
     Note: ssml must be well-formed according to:
@@ -93,7 +93,7 @@ def synthesize_ssml_file(ssml_file):
         print('Audio content written to file "output.mp3"')
 
 
-# [END tts_synthesize_ssml_file]
+# [END tts__file]
 
 
 if __name__ == "__main__":
@@ -109,4 +109,4 @@ if __name__ == "__main__":
     if args.text:
         synthesize_text_file(args.text)
     else:
-        synthesize_ssml_file(args.ssml)
+        _file(args.ssml)

@@ -28,8 +28,8 @@ def test_synthesize_text_file(capsys):
     assert statinfo.st_size > 0
 
 
-def test_synthesize_ssml_file(capsys):
-    synthesize_file.synthesize_ssml_file(ssml_file=SSML_FILE)
+def test__file(capsys):
+    synthesize_file._file(ssml_file=SSML_FILE)
     out, err = capsys.readouterr()
 
     assert "Audio content written to file" in out

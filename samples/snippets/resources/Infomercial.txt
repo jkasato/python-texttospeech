@@ -1,42 +1,60 @@
-<speak>
+<show frustrated user on computer>
+<show many windows open with text, with more opening>
 Are you tired of skimming through mountains of notes just to find a certain bit of information?
 
+<show another frustrated user on computer>
 Are you frustrated when you know a note exists but your search results are empty because you called it something different?
 
+<show user daydreaming at computer>
 Then you're ready to try Savvy.
 
+<overlay Savvy logo>
 Savvy is a revolutionary new personal information management system.
 Whether you are a student, professor, professional or a hobbyist.
-You'll find that Savvy is the product you've been missing.
 
+You'll find that Savvy is the product you've been. Missing.
+
+<savvy-window.png>
 Savvy is the world's first information manager backed with the power of Graph Databases.
 
+<overlay windows, mac, linux logos when named>
 And it works on Windows, Mac and Linux.
 
+<savvy-window.png | transition-to | savvy-window-highlight-facts-list.png >
 With Savvy, you no longer have to read through those mountains of text, all your notes are easily found using the Facts pane.
 
-And synonyms are easy with Savvy, just add an alias, and every note you've made can be found as if it were created with that name too.
-You will no longer miss notes that you know exist.
+<aliases.flv>
+And synonyms are easy with Savvy, just add an alias, and every note you've made can be found as if it were created with that name too. No more missing notes that you know exist.
 
+<create-fact-kb.flv & filter-facts-kb.flv>
 What's more, Savvy is designed with notetakers in mind. You can create facts in lectures or meetings and quickly filter them all without leaving your keyboard.
 
+<show big text Graph Database>
 The secret behind Savvy's innovative process is the Graph Database.
 
+<facts-graph.png>
+<savvy-window.png>
 With Savvy all your notes are linked by their relationships to each other.
 
+<facts-graph-filter-armadillos.png>
+<savvy-facts-filter-armadillos.png>
 So when you look for notes about armadillos all your information related to armadillos is shown.
 
+<graph-filter-otters-urchins.png>
+<savvy-facts-filter-otters-urchins.png>
 Also, when you look for sea otters AND sea urchins, only information that is related between both are displayed.
 
+<savvy-facts-modifier.png>
 Savvy allows you to be expressive with your notes. You can add modifiers to them.
 
+<show correlates>
 And add different phrasings for your relationships.
 
+<show savvy logo>
 So go ahead and get Savvy, the personal information manager you've been waiting for.
 
+<show get savvy & the github url>
 	<make some weird sounds>
-	Nudiustertian, Batrachomyomachy, Borborygm, Boustrophedon,
-Pandiculation, Abibliophobia.
-End. Of. Infomercial.
+	ah. eeee. errrr. ah. ooooh. udngekd.
 
-</speak>
+End. Of. Infomercial.

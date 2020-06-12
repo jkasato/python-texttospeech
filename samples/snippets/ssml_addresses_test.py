@@ -20,7 +20,7 @@ from ssml_addresses import text_to_ssml
 def test_text_to_ssml(capsys):
 
     # Read expected SSML output from resources
-    with open("resources/example.ssml", "r") as f:
+    with open("resources/", "r") as f:
         expected_ssml = f.read()
 
     # Assert plaintext converted to SSML

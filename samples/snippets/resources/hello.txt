@@ -1,1 +1,4 @@
-Hello there!
+<speak>
+   <break time="3s"/>.
+This is an involved process that certainly helps you remember information from your notes, but makes it hard to find particular facts quickly.<break time="1s"/>.OK.<break time="0.5s"/>.Now I will give you 15 seconds to find all the facts that are exclusively about cars and traction in the text.<break time="15s"/>.
+</speak>

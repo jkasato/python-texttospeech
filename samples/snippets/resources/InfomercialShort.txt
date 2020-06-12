@@ -1,42 +1,23 @@
-<speak>
 Are you tired of skimming through mountains of notes just to find a certain bit of information?
-
 Are you frustrated when you know a note exists but your search results are empty because you called it something different?
-
 Then you're ready to try Savvy.
-
 Savvy is a revolutionary new personal information management system.
 Whether you are a student, professor, professional or a hobbyist.
 You'll find that Savvy is the product you've been missing.
-
 Savvy is the world's first information manager backed with the power of Graph Databases.
-
 And it works on Windows, Mac and Linux.
-
 With Savvy, you no longer have to read through those mountains of text, all your notes are easily found using the Facts pane.
-
 And synonyms are easy with Savvy, just add an alias, and every note you've made can be found as if it were created with that name too.
 You will no longer miss notes that you know exist.
-
 What's more, Savvy is designed with notetakers in mind. You can create facts in lectures or meetings and quickly filter them all without leaving your keyboard.
-
 The secret behind Savvy's innovative process is the Graph Database.
-
 With Savvy all your notes are linked by their relationships to each other.
-
 So when you look for notes about armadillos all your information related to armadillos is shown.
-
 Also, when you look for sea otters AND sea urchins, only information that is related between both are displayed.
-
 Savvy allows you to be expressive with your notes. You can add modifiers to them.
-
 And add different phrasings for your relationships.
-
 So go ahead and get Savvy, the personal information manager you've been waiting for.
-
 	<make some weird sounds>
 	Nudiustertian, Batrachomyomachy, Borborygm, Boustrophedon,
 Pandiculation, Abibliophobia.
 End. Of. Infomercial.
-
-</speak>
